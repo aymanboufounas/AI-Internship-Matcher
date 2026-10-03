@@ -1,0 +1,41 @@
+canonical,aliases
+Python,python
+Java,java
+C++,c++|cpp
+C#,c#|c sharp
+JavaScript,javascript|js
+TypeScript,typescript
+SQL,sql|mysql|postgresql|postgres|sqlite
+Machine Learning,machine learning|ml
+Deep Learning,deep learning|neural network|neural networks
+NLP,nlp|natural language processing
+Computer Vision,computer vision|opencv|image processing
+Pandas,pandas
+NumPy,numpy
+Scikit-learn,scikit-learn|sklearn
+PyTorch,pytorch|torch
+TensorFlow,tensorflow|keras
+Hugging Face,hugging face|transformers
+FastAPI,fastapi
+Flask,flask
+Django,django
+Streamlit,streamlit
+REST API,rest api|restful api
+Git,git|github
+Docker,docker
+Kubernetes,kubernetes|k8s
+Linux,linux
+AWS,aws|amazon web services
+Azure,azure
+GCP,gcp|google cloud
+Power BI,power bi
+Tableau,tableau
+Spark,apache spark|pyspark
+Airflow,airflow|apache airflow
+MongoDB,mongodb|mongo
+Redis,redis
+MLOps,mlops
+Data Analysis,data analysis|data analytics
+Data Science,data science
+Statistics,statistics|statistical analysis
+GitHub Actions,github actions|ci/cd|continuous integration
