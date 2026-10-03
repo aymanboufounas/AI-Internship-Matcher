@@ -1,0 +1,5 @@
+AI / Data Science Intern
+
+We are looking for an intern who can build and evaluate machine-learning solutions.
+Requirements: Python, Pandas, NumPy, scikit-learn, SQL, Git, Docker, FastAPI, and basic AWS knowledge.
+Experience with NLP, Computer Vision, or PyTorch is a plus. You will work on data analysis, model evaluation, APIs, and reproducible experiments.
