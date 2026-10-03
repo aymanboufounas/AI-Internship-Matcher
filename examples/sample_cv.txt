@@ -1,0 +1,7 @@
+AI & Data Science Student
+
+Skills: Python, Java, SQL, Pandas, NumPy, scikit-learn, Computer Vision, NLP, Git, FastAPI.
+Projects:
+- Built a computer-vision inspection prototype using Python and OpenCV.
+- Trained classification and regression models with scikit-learn and evaluated model performance.
+- Built REST APIs using FastAPI and managed projects with Git/GitHub.
